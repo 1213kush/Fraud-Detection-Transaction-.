@@ -20,3 +20,6 @@ questions**.
 6. Do these factors make sense? If yes, How? If not, How not?
 7. What kind of prevention should be adopted while company update its infrastructure?
 8. Assuming these actions have been implemented, how would you determine if they work?
+
+**Link of data set**
+https://drive.google.com/drive/folders/1OEA3EIFPO7FDF1U-uggWGvVcxo4CE3aG?usp=drive_link
